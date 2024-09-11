@@ -1,4 +1,4 @@
-/* Fonte e reset básico */
+
 * {
     margin: 0;
     padding: 0;
@@ -23,7 +23,7 @@
     text-align: justify;
   }
   
-  /* Container principal */
+
   .container {
     max-width: 1100px;
     margin: 0 auto;
@@ -33,10 +33,10 @@
     box-shadow: 0 0 20px rgba(0, 0, 0, 0.1);
   }
   
-  /* Seção principal com fundo */
+
   .hero-section {
     position: relative;
-    background-image: url('https://url-da-sua-imagem.com/cristiano-bicicleta.jpg'); /* Substitua com a URL da imagem real */
+    background-image: url('https://julia.pt/wp-content/uploads/2018/04/Romaldo.jpg');
     background-size: cover;
     background-position: center;
     height: 400px;
@@ -53,7 +53,7 @@
     left: 0;
     width: 100%;
     height: 100%;
-    background-color: rgba(0, 0, 0, 0.5); /* Sobreposição escura */
+    background-color: rgba(0, 0, 0, 0.5); 
     z-index: 1;
   }
   
@@ -71,7 +71,7 @@
     font-size: 1.2rem;
   }
   
-  /* Estilos de imagens */
+
   img {
     width: 100%;
     height: auto;
@@ -79,7 +79,7 @@
     margin-bottom: 30px;
   }
   
-  /* Botão de ação */
+
   .btn {
     display: inline-block;
     padding: 10px 20px;
@@ -96,7 +96,7 @@
     background-color: #002266;
   }
   
-  /* Rodapé */
+
   footer {
     text-align: center;
     margin-top: 40px;
